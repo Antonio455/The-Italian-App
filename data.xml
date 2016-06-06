@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>Which two countries are surrounded on all sides by Italy?</question>
+              <option>Gilbraltar and Andorra</option>
+              <option>Monacp and Andorra</option>
+			  <option>Vatican and San Marino</option>
+			  <answer>Vatcan and San Marino</answer>
+        </task>         
+        <task>
+              <question>Which is the largest island of Italy?</question>
+              <option>Sicily</option>
+              <option>Elba</option>
+              <option>Sardinia</option>
+			  <answer>Sicily</answer>
+        </task>         
+        <task>
+              <question>Which is Italy's main river?</question>
+              <option>Arno</option>
+              <option>Po</option>
+              <option>Tiber</option>
+			  <answer>Po</answer>
+        </task> 
+		<task>
+              <question>Who won the Football World Cup 2006?</question>
+              <option>Italy</option>
+              <option>Brazil</option>
+			  <option>France</option>
+			  <answer>Italy</answer>
+        </task>
+		<task>
+              <question>Where is the leanng tower?</question>
+              <option>Venice</option>
+              <option>Pisa</option>
+              <option>Milan</option>
+			  <answer>Pisa</answer>
+        </task>          
+</All>
